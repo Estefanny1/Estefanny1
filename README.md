@@ -7,7 +7,8 @@ Gusto de ver el perfil de la alumna  ✨💗 Estefanny Cruz Barradas 💗✨.
 🐙🦑 Mi mejor amigo se llama Sergio Estrada Domingez. 🐙🦑  
 
 
-![image](https://user-images.githubusercontent.com/71289132/217959961-aaade4eb-f1c2-4c27-9538-a661908a0661.png)
+![image](https://user-images.githubusercontent.com/71289132/217960162-d37f8bef-036a-4c84-a1cf-6a0935031180.png)
+
 
 
 
