@@ -1,6 +1,6 @@
 
-<h4 align="center">🤍❤🤍❤🤍❤🤍❤ ##Hola Compañeros 🤍❤🤍❤🤍❤🤍❤</h4>
-Gusto de ver el perfil de la alumna  ✨💗 Estefanny Cruz Barradas 💗✨. 
+<h2 align="center">🤍❤🤍❤🤍❤🤍❤ ##Hola Compañeros 🤍❤🤍❤🤍❤🤍❤</h2>
+
 
 <h1 align="center">Hola 👋, soy Estefanny Cruz Barradas</h1>
 <h3 align="center">Una estudiante muy comprometida con el trabajo.</h3>
