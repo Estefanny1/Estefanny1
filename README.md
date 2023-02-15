@@ -1,18 +1,21 @@
 
-🤍❤🤍❤🤍❤🤍❤ ##Hola Compañeros 🤍❤🤍❤🤍❤🤍❤
+<h4 align="center">🤍❤🤍❤🤍❤🤍❤ ##Hola Compañeros 🤍❤🤍❤🤍❤🤍❤</h4>
 Gusto de ver el perfil de la alumna  ✨💗 Estefanny Cruz Barradas 💗✨. 
 
-🏆 Estudio en la universidad Tectijuana
-🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-🐙🦑 Mi mejor amigo se llama Sergio Estrada Domingez. 🐙🦑  
-<h1 align="center">Hi 👋, I'm Estefanny Cruz Barradas</h1>
+<h1 align="center">Hola 👋, soy Estefanny Cruz Barradas</h1>
 <h3 align="center">Una estudiante muy comprometida con el trabajo.</h3>
 
-- 🌱 I’m currently learning **Ingles, phython.**
+- 🏆 Estudio en la universidad Tectijuana
 
-- 💬 Ask me about **las bases de datos las manejo bien, el diseño de sonfware tanto como programacion como en diseño.**
+- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
-- 📫 How to reach me **estefanny.cruz201@tectijuana.edu.mx**
+- 🐙🦑 Mi mejor amigo se llama Sergio Estrada Domingez. 🐙🦑  
+
+- 🌱 Estoy aprendiendo **Ingles, phython.**
+
+- 💬 Puedes preguntarme sobre **las bases de datos las manejo bien, el diseño de sonfware tanto como programacion como en diseño.**
+
+- 📫 Me puedes encontrar **estefanny.cruz201@tectijuana.edu.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
