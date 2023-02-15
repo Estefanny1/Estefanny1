@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋, soy Estefanny Cruz Barradas</h1>
 <h3 align="center">Una estudiante muy comprometida con el trabajo.</h3>
-
+<h3 align="center">Tomo clases con el profesor Rene de 2:00pm a 3:00pm, en la carera de ing.sistemas computacionales.</h3>
 - 🏆 Estudio en la universidad Tectijuana
 
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
